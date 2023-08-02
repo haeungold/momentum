@@ -51,12 +51,6 @@ body >h2 {
 }
 
 
-#weather{
-    position: fixed;
-    margin-left: 80%;
-    z-index: 20;
-}
-
 #quote-container{
     display: flex;
     position: relative;
@@ -139,8 +133,3 @@ body li{
     z-index: 10;
 }
 
-.weather-container{
-    display: flex;
-    justify-content: end;
-    margin-right: 40px;
-}
